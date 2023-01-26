@@ -1,0 +1,43 @@
+.home-card {
+  margin: 15px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.video-thumbnail {
+  width: 35vw;
+  height: 240px;
+}
+.channel-sec {
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  height: 130px;
+}
+.channel-logo {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+.channel-info {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  font-size: 17px;
+  width: 40vw;
+}
+.views-date {
+  display: flex;
+  margin-top: -15px;
+}
+.name {
+  margin-top: -5px;
+  font-size: 16px;
+}
+.date-format {
+  padding-left: 5px;
+}
+.link {
+  text-decoration: none;
+}

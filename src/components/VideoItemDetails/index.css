@@ -1,0 +1,37 @@
+.title {
+  font-size: 17px;
+}
+.views-date {
+  display: flex;
+  align-items: center;
+}
+.name {
+  font-size: 16px;
+}
+.date-format {
+  padding-left: 5px;
+}
+.comments-sec {
+  display: flex;
+}
+.channel-infoo {
+  display: flex;
+  flex-direction: column;
+}
+.count {
+  margin-top: -7px;
+}
+.views-like {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.likes-sec {
+  display: flex;
+  width: 8vw;
+  justify-content: space-around;
+  align-items: center;
+}
+.like {
+  padding-left: 5px;
+}

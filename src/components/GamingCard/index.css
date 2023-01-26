@@ -1,0 +1,17 @@
+.home-cardG {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+.video-thumbnailG {
+  width: 200px;
+  height: 260px;
+}
+.titleG {
+  font-size: 17px;
+}
+
+.link {
+  text-decoration: none;
+}
